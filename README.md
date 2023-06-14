@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 
 -->
-[![Eagon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eagon7&show_icons=true&theme=radical)]
+[![Eagon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eagon7&show_icons=true&theme=merko)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
